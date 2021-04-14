@@ -125,6 +125,7 @@ dmypy.json
 .pyre/
 
 # datasets
+*.tgz
 *.gz
 *.tar
 
